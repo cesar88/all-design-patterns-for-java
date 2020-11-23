@@ -1,3 +1,6 @@
 *.classpath
 *.eclipse.jdt.core.prefs
 *.class
+*.eclipse.m2e.core.prefs
+*.MF
+*.project
